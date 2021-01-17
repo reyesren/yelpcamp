@@ -11,3 +11,4 @@ This application was created using:
 - mongoDB
 - Bootstrap 5
 - MapBox API
+- Cloudinary upload services
