@@ -10,3 +10,4 @@ This application was created using:
 - Express.js
 - mongoDB
 - Bootstrap 5
+- MapBox API
