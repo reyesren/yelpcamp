@@ -17,7 +17,7 @@ module.exports.register = async (req, res) => {
       res.redirect("/campgrounds");
     });
   } catch (e) {
-    req.flash("error", "e.message");
+    req.flash("error", e.message);
     res.redirect("register");
   }
 };
